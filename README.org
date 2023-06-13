@@ -1,0 +1,10 @@
+* select-file
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tapioco71/select-file.git   |
+| commit  | a98b6bc  |
+| systems | select-file |
+|---------+-------------------------------------------|
+
